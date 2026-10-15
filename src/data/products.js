@@ -66,7 +66,7 @@ export const products = [
     price: 11,
     category: 'Smash burgers',
     badge: 'Sabor venezolano',
-    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/960px-Big_Mac_hamburger.jpg',
   },
   {
     id: 'smash-fuego',
@@ -79,7 +79,7 @@ export const products = [
     price: 11.5,
     category: 'Smash burgers',
     badge: 'Picante',
-    image: 'https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Burger_King_double_cheeseburger.jpg/960px-Burger_King_double_cheeseburger.jpg',
   },
   {
     id: 'smash-sencilla',
@@ -91,7 +91,7 @@ export const products = [
     portion: 'Smash sencilla',
     price: 7.5,
     category: 'Smash burgers',
-    image: 'https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Fast_food_hamburger_from_Sonic_Drive-In.jpg/960px-Fast_food_hamburger_from_Sonic_Drive-In.jpg',
   },
   {
     id: 'pollo-picante',
@@ -104,7 +104,7 @@ export const products = [
     price: 9,
     category: 'Pollo crispy',
     badge: 'Un toque de fuego',
-    image: 'https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Korean_fried_chicken_sandwich_with_cucumber_slaw_and_gochujang%2C_plus_French_fries_-_Cambridge%2C_MA.jpg/960px-Korean_fried_chicken_sandwich_with_cucumber_slaw_and_gochujang%2C_plus_French_fries_-_Cambridge%2C_MA.jpg',
   },
   {
     id: 'pollo-bbq',
@@ -116,7 +116,7 @@ export const products = [
     portion: 'Pollo crispy',
     price: 9.5,
     category: 'Pollo crispy',
-    image: 'https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ultimate_Bacon_-_Honest_Fried_Chicken_with_rosemary_chips_-_Honest_Burgers_2025-01-20.jpg/960px-Ultimate_Bacon_-_Honest_Fried_Chicken_with_rosemary_chips_-_Honest_Burgers_2025-01-20.jpg',
   },
   {
     id: 'perro-ferchi',
@@ -129,7 +129,7 @@ export const products = [
     price: 6.5,
     category: 'Perros calientes',
     badge: 'A lo venezolano',
-    image: 'https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hot_dog_vendor_-_September_2024_-_Sarah_Stierch_01.jpg/960px-Hot_dog_vendor_-_September_2024_-_Sarah_Stierch_01.jpg',
   },
   {
     id: 'perro-mixto',
@@ -141,7 +141,7 @@ export const products = [
     portion: '1 unidad',
     price: 8,
     category: 'Perros calientes',
-    image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Swedish_Special_Hot_Dog_-_Ikea_Croydon_2025-06-13.jpg/960px-Swedish_Special_Hot_Dog_-_Ikea_Croydon_2025-06-13.jpg',
   },
   {
     id: 'combo-ferchi',
@@ -178,7 +178,7 @@ export const products = [
     portion: 'Sándwich + papas + bebida',
     price: 12,
     category: 'Combos',
-    image: 'https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Korean_fried_chicken_with_cheese_flavor_%28Chikin%29.jpg/960px-Korean_fried_chicken_with_cheese_flavor_%28Chikin%29.jpg',
   },
   {
     id: 'combo-perro',
@@ -190,7 +190,7 @@ export const products = [
     portion: 'Perro + papas + bebida',
     price: 10,
     category: 'Combos',
-    image: 'https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Plant-based_hot_dog_with_fried_onion%2C_French_fries%2C_and_apple_sparkling_-_IKEA_Southampton_2025-12-29.jpg/960px-Plant-based_hot_dog_with_fried_onion%2C_French_fries%2C_and_apple_sparkling_-_IKEA_Southampton_2025-12-29.jpg',
   },
   {
     id: 'papas-ferchi',
@@ -240,7 +240,7 @@ export const products = [
     price: 6,
     category: 'Acompañantes',
     badge: 'Para compartir',
-    image: 'https://images.unsplash.com/photo-1639024471283-03518883512d?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Teque%C3%B1os_v%C3%A9n%C3%A9zu%C3%A9liens_%C3%A0_Arepado_%28Lyon%29%2C_avril_2019.jpg/960px-Teque%C3%B1os_v%C3%A9n%C3%A9zu%C3%A9liens_%C3%A0_Arepado_%28Lyon%29%2C_avril_2019.jpg',
   },
   {
     id: 'papas-cheddar-bacon',
@@ -252,7 +252,7 @@ export const products = [
     portion: 'Porción para compartir',
     price: 6.5,
     category: 'Acompañantes',
-    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Roast_lamb%2C_rice%2C_salad%2C_French_fries_with_spices_and_feta_cheese_-_Massachusetts.jpg/960px-Roast_lamb%2C_rice%2C_salad%2C_French_fries_with_spices_and_feta_cheese_-_Massachusetts.jpg',
   },
   {
     id: 'brownie',
@@ -265,7 +265,7 @@ export const products = [
     price: 4.5,
     category: 'Postres',
     badge: 'Dulce final',
-    image: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Brownie-dessert-cake-sweet-45202.jpg/960px-Brownie-dessert-cake-sweet-45202.jpg',
   },
   {
     id: 'galleta-helado',
@@ -277,7 +277,7 @@ export const products = [
     portion: '1 galleta + helado',
     price: 5.5,
     category: 'Postres',
-    image: 'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chocolate_chip_cookies_on_cutting_board.jpg/960px-Chocolate_chip_cookies_on_cutting_board.jpg',
   },
   {
     id: 'milkshake-vainilla',
@@ -315,7 +315,7 @@ export const products = [
     price: 3.5,
     category: 'Bebidas',
     badge: 'Hecho en casa',
-    image: 'https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Home_made_Lemonade_-_Potatoast_2026-03-03.jpg/960px-Home_made_Lemonade_-_Potatoast_2026-03-03.jpg',
   },
   {
     id: 'refresco',
@@ -327,7 +327,7 @@ export const products = [
     portion: 'Lata · 355 ml',
     price: 2.5,
     category: 'Bebidas',
-    image: 'https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Refreshing_Drink_%28Unsplash%29.jpg/960px-Refreshing_Drink_%28Unsplash%29.jpg',
   },
   {
     id: 'milkshake-chocolate',
@@ -339,6 +339,6 @@ export const products = [
     portion: 'Vaso · 16 oz',
     price: 5.5,
     category: 'Bebidas',
-    image: 'https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=900&q=85',
+    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Milo_milkshake_-_BRUHA_2024-05-23.jpg/960px-Milo_milkshake_-_BRUHA_2024-05-23.jpg',
   },
 ]
